@@ -8,3 +8,4 @@ https://etproxypool.ga/clash/proxies
 https://www.233660.xyz/clash/proxies
 https://etproxypool.ga/clash/proxies
 https://etproxypool.cf/clash/proxies
+https://proxy.yugogo.xyz/clash/proxies
